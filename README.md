@@ -9,3 +9,7 @@ Website of **Uyoon Tech Solutions** (a UTPL Group unit). Plain static HTML, no b
   `python3 scripts/build-kuwait-pages.py`, and commit the output. CI fails if they drift.
 - History before this repo lived in `nisrintajak-byte/mess-manager` under `website/tech`
   and was carried over with `git subtree split`.
+
+## Deploys
+
+Every push to `main` is a production deploy to tech.utplgroup.com; other branches get Vercel preview URLs.
