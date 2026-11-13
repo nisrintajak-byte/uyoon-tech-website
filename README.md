@@ -13,6 +13,4 @@ Website of **Uyoon Tech Solutions** (a UTPL Group unit). Plain static HTML, no b
 ## Deploys
 
 Every push to `main` is a production deploy to tech.utplgroup.com; other branches get Vercel preview URLs.
-
-Source of truth for tech.utplgroup.com since 2026-11-13.
-- Vercel Git connection moved from mess-manager to this repo on 2026-11-13.
+This repo is the source of truth for the site since 2026-11-13, when the Vercel Git connection moved here from mess-manager.
