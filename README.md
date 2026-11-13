@@ -2,7 +2,7 @@
 
 Website of **Uyoon Tech Solutions** (a UTPL Group unit). Plain static HTML, no build step.
 
-- Deployed by the Vercel project `mess-manager-tech` from the repository root.
+- Deployed by the Vercel project `uyoon-tech-website` (formerly `mess-manager-tech`) from the repository root.
 - Pages: home, `/support`, `/kuwait` (EN) and `/kuwait/ar` (AR), `/mess-manager` with its
   `privacy`, `terms` and `delete-account` pages (linked from the Play Store listing; keep these URLs).
 - The Kuwait pages are generated: edit `scripts/build-kuwait-pages.py`, run
